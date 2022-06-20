@@ -32,6 +32,7 @@ if guess == Jackpot :
     print('\n\n\n\n------------------- After credits stats ------------------- ')
     print('You took ' + str(Numguess) + ' guesses, try again to beat your previous score!') # shows how to take the Numguess in the for loop in part 2 and print it
 else:
-    print('\n\nYou exceeded the amount of ' + str(Numguess) + ' guesses and failed to escape, play again to save yourself.')
+    print('\n\nYou exceeded the amount of ' + str(Numguess) + ' guesses and failed to escape, play again to save yourself.', end=' ')
+    print('Oh, by the way, the number that I was thinking of was ' + str(int(Jackpot)) + '.')
     
     
