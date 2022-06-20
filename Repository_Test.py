@@ -1,6 +1,0 @@
-print('Hello, what is your name?')
-myName = input()
-print(myName + ', that is a good name for a good person.')
-print('Additionally, did you know that your name is ', end='')
-print(len(myName))
-print('characters long?')
