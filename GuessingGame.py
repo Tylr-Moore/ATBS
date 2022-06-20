@@ -34,5 +34,3 @@ if guess == Jackpot :
 else:
     print('\n\nYou exceeded the amount of ' + str(Numguess) + ' guesses and failed to escape, play again to save yourself.', end=' ')
     print('Oh, by the way, the number that I was thinking of was ' + str(int(Jackpot)) + '.')
-    
-    
