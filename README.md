@@ -5,6 +5,6 @@ The point of using Git while learning ATBS is to become familiar and used to Git
 
 
 
-```
-Automate the Boring Stuff ##### ```- provides a nice block to put code to keep notes clean and concise
+```python
+Automate the Boring Stuff ##### ```python (change python to what programming lang you're using and add ``` after your code) - provides a nice block to put code to keep notes clean and concise
 ```
