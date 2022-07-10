@@ -38,6 +38,4 @@ else:
     print('Oh, by the way, the number that I was thinking of was ' + str(int(Jackpot)) + '.')
     print('\n\nYou lost, you are trapped with me forever!!')
     byeagain = input()
-    
-
 
